@@ -70,3 +70,14 @@ Launch the Streamlit app:
 ```bash
 streamlit run app.py
 ```
+---
+
+## App Overview
+![App Overview](Images/app.PNG)
+
+## Volcano Plot
+![Volcano Plot](Images/VP.PNG)
+
+## Enrichment Analysis
+![Enrichment Analysis](Images/enrichment.PNG)
+
