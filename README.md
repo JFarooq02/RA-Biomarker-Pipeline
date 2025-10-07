@@ -54,8 +54,9 @@ RA_Biomarker_App/
 ## Installation
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/RA_Biomarker_App.git
-cd RA_Biomarker_App
+git clone https://github.com/JFarooq02/RA-Biomarker-Pipeline.git
+cd RA-Biomarker-Pipeline
+
 ```
 --
 
