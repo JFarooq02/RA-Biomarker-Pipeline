@@ -33,4 +33,22 @@ The app allows interactive exploration of datasets, statistical filtering based 
   - `enrichr` – Enrichment analysis
   - `network` – Build and visualize gene networks
 
+```bash
+RA_Biomarker_App/
+│
+├── app.py # Main Streamlit app
+├── modules/
+│ ├── data_loader.py # Data loading & preprocessing
+│ ├── filtering.py # LogFC & p-value filtering
+│ ├── plots.py # Visualizations
+│ ├── enrichr.py # Enrichment analysis
+│ └── network.py # Network construction & visualization
+│
+├── data/
+│ ├── raw/ # Original datasets
+│ └── processed/ # Filtered/cleaned data
+│
+├── requirements.txt # Python dependencies
+└── README.md # Project documentation
+```
 
