@@ -1,0 +1,35 @@
+Gene_set, Term,Overlap,P_value,Adjusted_P_value,Odds_Ratio,Combined Score,Genes
+GO_Biological_Process_2023, Canonical Wnt Signaling Pathway (GO:0060070),Feb-65,0.002517891,0.106861645,30.10430839,180.1542289,WNT2B;WNT3
+GO_Biological_Process_2023, Positive Regulation Of Phosphatidylinositol 3-Kinase Signaling (GO:0014068),Feb-69,0.002831974,0.106861645,28.30135039,166.037834,FLT3;EXTL3
+GO_Biological_Process_2023, Wnt Signaling Pathway (GO:0016055),Feb-76,0.003423617,0.106861645,25.61518662,145.4188949,WNT2B;WNT3
+GO_Biological_Process_2023, Regulation Of Phosphatidylinositol 3-Kinase Signaling (GO:0014066),Feb-90,0.004764343,0.106861645,21.52489177,115.0848923,FLT3;EXTL3
+GO_Biological_Process_2023, Hemopoiesis (GO:0030097),2/101,0.005961598,0.106861645,19.12265512,97.95420689,WNT2B;FLT3
+GO_Biological_Process_2023, Lymphoid Progenitor Cell Differentiation (GO:0002320),6-Jan,0.006880968,0.106861645,181.5636364,904.0045996,FLT3
+GO_Biological_Process_2023, Negative Regulation Of Membrane Protein Ectodomain Proteolysis (GO:0051045),6-Jan,0.006880968,0.106861645,181.5636364,904.0045996,PTPN3
+GO_Biological_Process_2023, Positive Regulation Of Fibroblast Apoptotic Process (GO:2000271),6-Jan,0.006880968,0.106861645,181.5636364,904.0045996,TP63
+GO_Biological_Process_2023, Regulation Of Fibroblast Apoptotic Process (GO:2000269),8-Jan,0.009164555,0.106861645,129.6753247,608.4900471,TP63
+GO_Biological_Process_2023, Regulation Of Inflammatory Response To Wounding (GO:0106014),9-Jan,0.010304464,0.106861645,113.4602273,519.1007406,EXTL3
+GO_Biological_Process_2023, Regulation Of MAPK Cascade (GO:0043408),2/204,0.022755569,0.106861645,9.323432343,35.2700351,PKHD1;FLT3
+GO_Biological_Process_2023, Regulation Of Histone Acetylation (GO:0035065),22-Jan,0.025009636,0.106861645,43.19480519,159.3237838,SET
+GO_Biological_Process_2023, Dendritic Cell Differentiation (GO:0097028),22-Jan,0.025009636,0.106861645,43.19480519,159.3237838,FLT3
+GO_Biological_Process_2023, Negative Regulation Of Epidermal Growth Factor Receptor Signaling Pathway (GO:0042059),23-Jan,0.026132105,0.106861645,41.22933884,150.2640619,PTPN3
+GO_Biological_Process_2023, Heparan Sulfate Proteoglycan Biosynthetic Process (GO:0015012),23-Jan,0.026132105,0.106861645,41.22933884,150.2640619,EXTL3
+GO_Biological_Process_2023, Mononuclear Cell Differentiation (GO:1903131),24-Jan,0.027253339,0.1076037,39.43478261,142.0669289,FLT3
+GO_Biological_Process_2023, Negative Regulation Of Response To Wounding (GO:1903035),25-Jan,0.028373338,0.10814179,37.78977273,134.6187109,EXTL3
+GO_Biological_Process_2023, Positive Regulation Of Phosphatidylinositol 3-Kinase Activity (GO:0043552),26-Jan,0.029492103,0.10814179,36.27636364,127.8245827,FLT3
+GO_Biological_Process_2023, Hematopoietic Progenitor Cell Differentiation (GO:0002244),28-Jan,0.031725939,0.10814179,33.58585859,115.8920582,FLT3
+GO_Biological_Process_2023, Chondrocyte Differentiation (GO:0002062),29-Jan,0.032841011,0.10814179,32.38474026,110.6287727,WNT2B
+GO_Biological_Process_2023, Positive Regulation Of Lipid Kinase Activity (GO:0090218),30-Jan,0.033954856,0.10814179,31.26645768,105.7657782,FLT3
+GO_Biological_Process_2023, Negative Chemotaxis (GO:0050919),31-Jan,0.035067473,0.10814179,30.22272727,101.2606815,SEMA3G
+GO_Biological_Process_2023, Negative Regulation Of Chemotaxis (GO:0050922),31-Jan,0.035067473,0.10814179,30.22272727,101.2606815,SEMA3G
+GO_Biological_Process_2023, Mesenchymal Cell Migration (GO:0090497),Jan-32,0.036178865,0.10814179,29.24633431,97.07677746,SEMA3G
+GO_Biological_Process_2023, Proteoglycan Biosynthetic Process (GO:0030166),Jan-32,0.036178865,0.10814179,29.24633431,97.07677746,EXTL3
+GO_Biological_Process_2023, Membrane Protein Proteolysis (GO:0033619),Jan-34,0.038397977,0.10814179,27.47107438,89.5488488,ADAM19
+GO_Biological_Process_2023, Regulation Of Phosphatidylinositol 3-Kinase Activity (GO:0043551),Jan-34,0.038397977,0.10814179,27.47107438,89.5488488,FLT3
+GO_Biological_Process_2023, Establishment Of Spindle Orientation (GO:0051294),Jan-35,0.039505699,0.10814179,26.66176471,86.15243598,PKHD1
+GO_Biological_Process_2023, Negative Regulation Of Protein Kinase B Signaling (GO:0051898),Jan-36,0.040612201,0.10814179,25.8987013,82.97132612,PKHD1
+GO_Biological_Process_2023, Lymphocyte Proliferation (GO:0046651),Jan-38,0.042821548,0.110181286,24.4963145,77.18087744,FLT3
+GO_Biological_Process_2023, Negative Regulation Of Proteolysis (GO:0045861),Jan-41,0.046126446,0.112559755,22.65568182,69.69723344,PTPN3
+GO_Biological_Process_2023, Lysosome Organization (GO:0007040),Jan-43,0.048323644,0.112559755,21.57467532,65.36769141,MYO7A
+GO_Biological_Process_2023, Regulation Of Cell-Cell Adhesion (GO:0022407),Jan-43,0.048323644,0.112559755,21.57467532,65.36769141,PKHD1
+GO_Biological_Process_2023, Regulation Of Cell-Substrate Adhesion (GO:0010810),Jan-44,0.049420428,0.112559755,21.07188161,63.37139604,PKHD1
