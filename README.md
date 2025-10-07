@@ -56,9 +56,8 @@ Clone the repository:
 ```bash
 git clone https://github.com/JFarooq02/RA-Biomarker-Pipeline.git
 cd RA-Biomarker-Pipeline
-
 ```
---
+
 
 Install dependencies:
 
