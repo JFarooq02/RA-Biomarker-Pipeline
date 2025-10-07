@@ -51,4 +51,22 @@ RA_Biomarker_App/
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
 ```
+## Installation
+Clone the repository:
+```bash
+git clone https://github.com/your-username/RA_Biomarker_App.git
+cd RA_Biomarker_App
+```
+--
 
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+--- 
+Launch the Streamlit app:
+
+```bash
+streamlit run app.py
+```
